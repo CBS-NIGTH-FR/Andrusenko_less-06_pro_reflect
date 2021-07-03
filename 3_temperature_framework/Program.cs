@@ -48,7 +48,7 @@ namespace _3_temperature
             Console.WriteLine($" 30 по Фарингейту - {tempC} по Цельсию");
            
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
